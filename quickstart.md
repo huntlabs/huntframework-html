@@ -9,13 +9,13 @@
 
 使用dub 创建一个新的项目【hello-dlang】脚本如下。
 ```
-git clone https://github.com/putaolabs/hunt-skeleton.git myproject
+git clone https://github.com/huntlabs/hunt-skeleton.git myproject
 cd myproject
 dub run
 ```
 编辑dub.json文件，在dependencies中添加hunt的依赖
 ```
-"hunt": "~>0.6.2"
+"hunt": "~>0.7.0"
 ```
 
 * step 3 编译运行 
