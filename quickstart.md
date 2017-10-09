@@ -47,7 +47,7 @@ void main()
 }
 ```
 
-编辑source/app.d文件,添加如下代码
+编译运行
 -----
 
 执行 `dub run` 命令编译代码,然后在浏览器中打开 `http://127.0.0.1:8088/index` 看见hello world 便表示运行成功
